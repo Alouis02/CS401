@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.cs401"
+    namespace = "com.tmsimple.orbical"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.cs401"
-        minSdk = 24
+        applicationId = "com.tmsimple.orbical"
+        minSdk = 26
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
