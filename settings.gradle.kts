@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CS 401"
+rootProject.name = "OrbiCal"
 include(":app")
  
